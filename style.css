@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    text-align: center;
+}
+
+body {
+    background-image: linear-gradient(to bottom, #393a41, #63646b, #919197, #c1c1c6, #f4f3f8);
+}
+
+table {
+    width: 100%;
+    margin-top: 30px;
+}
+
+img {
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+}
+
+#header {
+    background-image: linear-gradient(to right, #bfd1ed, #9bd8fb, #65e0fc, #18e7ea, #12ebc5);
+    height: 70px;
+    box-shadow: rgb(247, 93, 93) 0 0 3px 3px;
+    border-radius: 5px;
+}
+
+h1 {
+    margin-top: -10px;
+    font-size: 40px;
+    color: rgb(32, 80, 32)
+}
+
+#brand {
+    width: 40%;
+    float: left;
+    line-height: 70px;
+    height: 70px;
+    text-align: center;
+}
+
+#menu {
+    width: 60%;
+    float: right;
+    line-height: 70px;
+    height: 70px;
+    text-align: center;
+}
+
+a {
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    margin-right: 30px;
+    text-decoration: none;
+}
+
+#title {
+    margin-top: 35px;
+}
+
+#pizza {
+    margin-top: 20px;
+}
+
+#DP {
+    background-image: linear-gradient(to right, #bdb5e0, #a9a2cc, #9690b9, #837ea6, #716c94);
+    color: rgb(15, 15, 15);
+    width: 300px;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 20px auto;
+    box-shadow: #009176 0 0 3px 3px;
+}
+
+#NV {
+    background-image: linear-gradient(to right, #e57a27, #f75252, #f03485, #c73fb9, #6c5be1);
+    color: rgb(15, 15, 15);
+    width: 300px;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 20px auto;
+    box-shadow: #009176 0 0 3px 3px;
+}
+
+#DR {
+    background-image: linear-gradient(to right top, #709ad8, #00b9f2, #00d4d8, #00e68d, #a8eb12);
+    color: rgb(15, 15, 15);
+    width: 300px;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 20px auto;
+    box-shadow: #009176 0 0 3px 3px;
+}
+
+#footer {
+    background: black;
+    padding: 50px;
+    color: cornsilk;
+    margin-top: 50px;
+}
